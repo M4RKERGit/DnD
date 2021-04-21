@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/backgr">
+        <file>header.png</file>
+        <file>images/Nameless.png</file>
+    </qresource>
+</RCC>
